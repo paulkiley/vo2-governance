@@ -1,0 +1,6 @@
+_subdirectory: template
+
+project_slug:
+  type: str
+  help: Repository slug (e.g., project-vo2-scaffolder)
+  default: example-repo
